@@ -190,6 +190,12 @@ Or with coordinates:
 ```
 ## Documentation
 
+![ui-openweather](/img/dashboard.png)
+
+## Deployment
+
+**Vercel Link :** [Click Here for Online Access](https://openweather-pi.vercel.app/)
+
 ## License
 
 This project is open source and available under the MIT License.
